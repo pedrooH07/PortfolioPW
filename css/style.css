@@ -7,14 +7,14 @@
 body {
 
     font-family: arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #000000 ;
 }
 
 
 header {
 
-    background-color: black;
-    color: white;
+    background-color: #211f24b6;
+    color: rgb(248, 248, 248);
     text-align: center;
     padding: 1em;
 
@@ -22,8 +22,8 @@ header {
 
 footer {
 
-    background-color: black;
-    color: white;
+    background-color: rgba(15, 2, 2, 0);
+    color: rgb(253, 253, 253);
     text-align: center;
     padding: 1em;
 
@@ -57,7 +57,7 @@ footer {
 
 .principal {
     text-align: center !important;
-    margin-left: 10% !important;
+    margin-left: 25% !important;
     margin-right: 25% !important;
     margin-top: 1% !important;
     margin-bottom: 50% !important;
@@ -66,7 +66,7 @@ footer {
 
 
 .img-icons {
-    width: 100% !important;
+    width: 80% !important;
 }
 
 .txt-icone {
@@ -102,9 +102,9 @@ a {
 
 .conteudo {
 
-    width: 130% !important;
+    width: 100% !important;
     background-color: white !important;
     padding: 1em !important;
     margin-top: 2em !important;
-    border-radius: 1em !important;
+    border-radius: 2em !important;
 }
