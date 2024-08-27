@@ -57,7 +57,7 @@ footer {
 
 .principal {
     text-align: center !important;
-    margin-left: 25% !important;
+    margin-left: 10% !important;
     margin-right: 25% !important;
     margin-top: 1% !important;
     margin-bottom: 50% !important;
@@ -66,7 +66,7 @@ footer {
 
 
 .img-icons {
-    width: 80% !important;
+    width: 100% !important;
 }
 
 .txt-icone {
@@ -102,9 +102,51 @@ a {
 
 .conteudo {
 
-    width: 100% !important;
+    width: 130% !important;
     background-color: white !important;
     padding: 1em !important;
     margin-top: 2em !important;
-    border-radius: 2em !important;
+    border-radius: 1em !important;
+
+
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
